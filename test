@@ -1,5 +1,6 @@
 class abc {
 public Staic void main(String args[]){
-system.out.println("hi...")
+system.out.println("hi...");
+system.out.println("hello...");
 }
 }
